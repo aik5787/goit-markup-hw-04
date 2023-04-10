@@ -134,6 +134,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--logo-color-first-part);
+  text-transform: uppercase;
 }
 
 .logo-part-two {
@@ -278,11 +279,6 @@ body {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-
-/* .feature-icon {
-  width: 64px;
-  height: 64px;
-} */
 
 .title-feature,
 .card-content-name,
